@@ -18,3 +18,9 @@ rs
 - A gitignore file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected
 
 ### [ExpressJS - Getting started](https://expressjs.com/en/starter/installing.html)
+
+
+### [Javascript Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+
+<img width="492" alt="Screenshot 2023-03-12 at 11 21 49 AM" src="https://user-images.githubusercontent.com/124747486/224561465-ffc7c4c4-bcd2-467a-9ab6-d0c6bb1bde68.png">
