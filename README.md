@@ -7,7 +7,7 @@ Learnings, reminders and frustrations written in the moment.
 
 ---
 ## Mar 10, 2023
-### Nodemon
+### [Nodemon](https://www.npmjs.com/package/nodemon)
 - nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected
 - Installation  
 npm install -g nodemon
