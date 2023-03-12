@@ -14,3 +14,6 @@ npm install -g nodemon
 - Manual restarting    
 rs
 
+## .gitignore
+- A gitignore file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected
+
