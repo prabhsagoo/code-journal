@@ -2,6 +2,12 @@
 Learnings, reminders and frustrations written in the moment.
 
 ---
+
+## Mar 13, 2023
+### Test server with curl on terminal
+- curl http://localhost:5051
+
+---
 ## Mar 11, 2023
 - [Icon library that provides a massive selection of high-quality icons](https://iconoir.com/)
 - [Lord icon](https://lordicon.com/)
