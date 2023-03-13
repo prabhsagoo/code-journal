@@ -20,7 +20,7 @@ Learnings, reminders and frustrations written in the moment.
 npm install -g nodemon
 - Manual restarting    
 rs
-- Start nodemon
+- Start nodemon    
 nodemon server.js
 
 ### [.gitignore](https://git-scm.com/docs/gitignore)
