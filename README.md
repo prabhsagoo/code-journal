@@ -17,7 +17,7 @@ Learnings, reminders and frustrations written in the moment.
 ### [Nodemon](https://www.npmjs.com/package/nodemon)
 - nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected
 - Installation  
-npm install -g nodemon
+npm install -g nodemon      
 npm install --save-dev nodemon
 - Manual restarting    
 rs
