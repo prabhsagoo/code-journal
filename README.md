@@ -5,7 +5,8 @@ Learnings, reminders and frustrations written in the moment.
 
 ## Mar 13, 2023
 ### Test server with curl on terminal
-- curl http://localhost:5051
+- curl http://localhost:5051        
+- curl -Sv http://localhost:4444/
 
 ---
 ## Mar 11, 2023
