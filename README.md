@@ -1,8 +1,12 @@
 # Prabh's Code Journal
 Learnings, reminders and frustrations written in the moment.
+---
+## Mar 26, 2023
+### Kill a port on Mac
+- lsof -i tcp:5150
+- sudo kill -9 2979 (2979 - PID number)
 
 ---
-
 ## Mar 13, 2023
 ### Test server with curl on terminal
 ### [Curl tutorial usage](https://curl.se/docs/manual.html)
