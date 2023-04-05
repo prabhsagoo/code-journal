@@ -4,8 +4,8 @@ Learnings, reminders and frustrations written in the moment.
 ---
 ## April 05, 2023
 ### React )
-- npm create vite@latest highgear-ex1
-- rafce (Shortcut to create a component
+- npm create vite@latest highgear-ex1    
+- rafce (Shortcut to create a component)
 ---
 ## Mar 26, 2023
 ### Kill a port on Mac
